@@ -28,3 +28,11 @@ The Book-Crossing dataset comprises 3 tables.
 The escalating demands of Online Data have led to the invention of new techniques for presenting or rather recommending different products to users. This project will use both Collaborative filtering as well as Association Rule Mining in order to recommend different types of books to the users. Both these techniques will make a good Hybrid Recommendation System and also get rid of the Data Sparsity and Cold Start problem. Finally, the calculations of both algorithms will be checked corresponding to the individual results given by each collaborative method in order to validate this Hybrid-method.
 
 __To be continued.....__ 😋✌🏻
+
+__Note__: 
+1. Currently, I am working on the project hence it will take time to upload full content.
+2. Link provided below will be in working condition after the last commit.
+3. This repository is made for my college-project and anyone can use it for themselves.
+4. Happy Coding 💻
+
+__WebApp Link__: [<a href="https://book-recommendation-system32.herokuapp.com/">Click Here to open</a>]. 
